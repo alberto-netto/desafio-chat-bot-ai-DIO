@@ -1,29 +1,31 @@
-### Olá, eu me chamo Alberto de Mattos Netto! 👋
-Engenheiro Eletricista especialista em energias renováveis, apaixonado por tecnologia.
+# Análise Textual com IA 🤖
 
-###Features:
-- ☀️ Participação em mais de 2,5 GW de usinas sustentáveis de energia
-- 💾 Estudando para integrar cálculos complexos de engenharia em soluções de software.
+Este projeto faz parte de um desafio para análise de texto utilizando inteligência artificial. O objetivo é explorar como modelos de IA interpretam diferentes sentenças e gerar insights a partir disso.
 
-###Portfolio de projetos
+## 📂 Estrutura do Repositório
+- **inputs/** → Contém o arquivo `sentencas.txt` com frases para análise.
+- **README.md** → Documentação do projeto.
 
-[![Portfolio 3D BIM](https://github-readme-stats.vercel.app/api/pin/?username=alberto-netto&repo=portfolio_BIM)](https://github.com/alberto-netto/portfolio_BIM)
+## 🛠️ Como foi feito?
+1. Criamos um repositório no GitHub.
+2. Adicionamos um arquivo `sentencas.txt` com frases para análise.
+3. Utilizamos ferramentas de IA para processar o texto e extrair insights.
 
+## 🔍 Insights obtidos
+- A IA conseguiu identificar sentimentos positivos e negativos nas frases.
+- Algumas frases ambíguas foram classificadas de forma inesperada.
+- Modelos de NLP (Processamento de Linguagem Natural) podem melhorar a análise considerando o contexto.
 
-### Linguagens Mais Usadas
+## 📸 Prints do Processo
+[A imagem mostra um guerreiro medieval usando uma armadura detalhada, com um manto de pele sobre os ombros. Ele segura uma espada em uma mão e veste luvas metálicas. O fundo é escuro e com um efeito de névoa azulada, criando uma atmosfera épica.
 
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=alberto-netto&layout=compact&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
+Entretanto, há uma edição evidente: a cabeça do guerreiro foi substituída por um rosto sorridente de um homem com barba, o que cria um efeito cômico e contrastante com o tom sombrio da cena. A imagem parece ser uma montagem usando um personagem do jogo Dark Souls II, como indicado pelo pequeno texto no canto inferior.](https://github.com/alberto-netto/desafio-chat-bot-ai-DIO/blob/main/inputs/Beto%20knight%202024.png)
 
-### Contato e Redes Sociais
+## 📎 Links úteis
+- [Speech Studio](https://speech.microsoft.com/)
+- [Language Studio](https://languagestudio.microsoft.com/)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alberto-de-mattos-netto/)
-
-[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/channels/@/betobola)
-
-[![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/albertomattos23/)
-
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5522999935062)
-
-[![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red)](mailto:demattosnetto@gmail.com)
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://https://portfolio-bim.vercel.app)
+## 🚀 Como contribuir?
+1. Faça um fork do projeto.
+2. Edite os arquivos e adicione novas análises.
+3. Envie um pull request.
